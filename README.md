@@ -110,3 +110,4 @@ and `git clone` together allows you to make copies of others' code.
 Often, the original authors will include license information regarding how you
 can use their repository, so make sure to check before you publish, sell or
 distribute any material you've forked, cloned and modified.
+Roshel
